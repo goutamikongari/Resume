@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<h1><center>Resume</center></h1>
+<img src="photo.jpg" width="90" height="90" align="right">
+<h3>Goutami Pandurang Kongari</h3>
+<p>Mobile No:-8928057508
+<br>Email:-<a href="">goutamikongari1226@gmail.com</a>
+<br>LinkedIn Profile:- <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank">LinkedIn Profile</a></p>
+<p><b><font size="5">Career Objective</font></b></p>
+
+<body>
+<p>To work with an organization that provides me challenging and dynamic environment. So that I can
+put all my best efforts in the organization growth and personal using any skills and abilities.</p>
+<p style="font-family:Times New Roman"><b><font size="5">Academic Qualification</font></b></p>
+<table style="width:80%" border="1">
+  <tr align="Center">
+    <th>Degree/Std  </th>
+    <th>Collage/School</th>
+    <th>University/Board</th>
+ 	<th>Year of passing</th>
+    <th>Percentage</th>
+  </tr>
+  <tr align="Center">
+    <td>BE CSE</td>
+    <td>Walchand Institute of Technology Solapur</td>
+    <td>Solapur University</td>
+    <td>2020</td>
+    <td>Appering<br>(TE-76.04%)</td>
+  </tr>
+  <tr align="Center">
+    <td>Diploma CSE</td>
+    <td>Shri Siddheswar Womens Polytecnic,solapur</td>
+    <td>MSBTE</td>
+    <td>2017</td>
+    <td>85.31%</td>
+  </tr>
+<tr align="Center">
+    <td>ITI</td>
+    <td>Government Industrial Training Institute (W),Solapur</td>
+    <td>Delhi Board</td>
+    <td>2015</td>
+    <td>78%</td>
+  </tr>
+<tr align="Center">
+    <td>SSC</td>
+    <td>Sou B.M.P. Kanya Prashala Solapur</td>
+    <td>Pune Board</td>
+    <td>2012</td>
+    <td>71.09%</td>
+  </tr>
+</table>
+<p style="font-family:Times New Roman"><b><font size="5">Technical Skills</font></b>
+<br><ul>
+		<li>Java</li>
+		<li>Python</li>
+		<li>C</li>
+		<li>c++</li>
+	</ul></p>
+<p style="font-family:Times New Roman"><b><font size="5">Certification</font></b></p>
+<ul>
+   <li><a href="https://drive.google.com/file/d/1SlJCTw5OoSl1rYWgJmAmS3bBgf15Eeve/view?usp=sharing" target="blank">Programming Data Structure and Algorithms using C in NPTEL (63%)</a></li>
+   <li><a href="https://drive.google.com/file/d/1tZO6Gub0x1Vur29qRKsfQjIpqH0KAun9/view?usp=sharing" target="blank">Programming in Java in NPTEL (95% Gold Medal)</a></li>
+   <li><a href="https://drive.google.com/file/d/1l19R50z-x4ff_F7J3rkoDCZ9Ereb2fqg/view?usp=sharing" target="blank">Internshala Python Training</a></li></ul>
+<p style="font-family:Times New Roman"><b><font size="5">Educational Project</font></b></p>
+<table style="width:80%" border="1">
+  <tr align="Center">
+    <th>TITLE</th>
+    <td>Food Wastage Reduction Through Donation</td>
+  </tr>
+  <tr>
+    <th>ENVIRONMENT</th>
+    <td><ul>
+		<li>Platform : Android Studio</li>
+		<li>Scripting Language : Java</li>
+		<li>Database Server : XAMPP</li>
+	</ul></td>
+  </tr>
+  <tr>
+    <th>DISCRIPTION</th>
+    <td>This is the application which is useful for the social works.Across the world, there are restaurants that waste tones of excess food
+Everyday. In this application we have implemented the establish link
+between Restaurants and the charity homes to enable excess food
+donation.</td>
+  </tr>
+</table>
+<br>
+<table style="width:80%" border="1">
+  <tr align="Center">
+    <th>TITLE</th>
+    <td>AR Watch</td>
+  </tr>
+  <tr>
+    <th>ENVIRONMENT</th>
+    <td><ul>
+		<li>Platform : Android Studio</li>
+		<li>Scripting Language : Java</li>
+	</ul></td>
+  </tr>
+  <tr>
+    <th>DISCRIPTION</th>
+    <td>The main purpose of this projects is to reduce manual work of shopkeeper
+and to provide customer all models through mobile. User scan the surface
+and detect the marker plots and tries various watch models.</td>
+  </tr>
+</table>
+</body>
+
+</html>
